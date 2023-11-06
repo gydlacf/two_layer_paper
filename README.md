@@ -10,7 +10,7 @@ description of the transition matrices.
 
 The file names follows the {pdbid}_{dissociation entropy} pattern. For
 example, 1arr_87.0 contains the data for the 1arr PDB structure
-calculated at $87\ \mathrm{\frac{J}{mol \cdot K}$.
+calculated at $87\ \mathrm{\frac{J}{mol \cdot K}}$.
 
 ## Microstates
 
